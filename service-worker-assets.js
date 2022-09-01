@@ -365,7 +365,7 @@
       "url": "_framework\/Web3Test.dll"
     },
     {
-      "hash": "sha256-3lwBKAYhfPIVmmSo7CblJ0tqs1rbjYMHyS04x04o7mw=",
+      "hash": "sha256-QOJaofnKloVm0uwfKXzVxgK2T/F5+OQuUWAd/5NvGQs=",
       "url": "_framework\/dotnet.6.0.8.z8fgey7rwu.js"
     },
     {
