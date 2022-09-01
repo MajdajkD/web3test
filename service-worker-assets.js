@@ -1,7 +1,7 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-lDAEEaul32OkTANWkZgjgs4sFCsMdLsR5NJxrjVcXdo=",
+      "hash": "sha256-PtJQgugrqrV\/b3vt9HHMH7NwcUYIip7zUqQIVdIIyvE=",
       "url": "css\/app.css"
     },
     {
@@ -385,5 +385,5 @@
       "url": "_content\/Web3Providers\/web3modal.js"
     }
   ],
-  "version": "REO4Y9hG"
+  "version": "bf00juFU"
 };
