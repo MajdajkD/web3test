@@ -31,7 +31,7 @@
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-0saVdC+sMMfIFQiPE38fUf4BukqpLPVVqyuLYLCorTs=",
       "MosaicPlatform.Contracts.dll": "sha256-qT2FhPmLQmPTfidqVSLZImfWv+Vl2Gbim0ZCJGtquGk=",
       "MosaicPlatform.Web.Client.dll": "sha256-Uo+Nib3UPZJcpLT3i8DZ+59Syhcp1EoEj5z1tq635bA=",
-      "MosaicPlatform.Web.Components.dll": "sha256-A0xhMexNIfrqD2cWtVqtF0066Zcec0Utfm4YIMjHidM=",
+      "MosaicPlatform.Web.Components.dll": "sha256-vBsOzLIqpuDPU8IPBzRfR\/o5VAt2\/uWHgJp4E34FGi4=",
       "MosaicPlatform.Web.Shared.dll": "sha256-mMlqoOeCkYrlb3trkDCO6wqumGRWwe7e4adxdvYOcTY=",
       "MosaicPlatform.Web.Web3Integration.dll": "sha256-SjecsgrIcQOWPtF0cWginvBHoieAKeguw1erFbST\/Eo=",
       "Nethereum.ABI.dll": "sha256-RD6vQ3Yz8RzcUeNADbniP54g+PAqcSH13d8Gt6PwT88=",
@@ -118,10 +118,10 @@
     },
     "satelliteResources": {
       "es": {
-        "es\/MosaicPlatform.Web.Components.resources.dll": "sha256-j7AIMVXW0hDpoNp715nB35BEw5VMOUnWk8EG5LZGX8g="
+        "es\/MosaicPlatform.Web.Components.resources.dll": "sha256-UWf2LI3w\/EuyNbjEY+Q9QM6Oh5g91EgNumqJkGQRIjA="
       },
       "hu": {
-        "hu\/MosaicPlatform.Web.Components.resources.dll": "sha256-WM9H3eAoduv9vAsQJ6CH4KUTK3\/8ggRm3exiROC0rxY="
+        "hu\/MosaicPlatform.Web.Components.resources.dll": "sha256-r7019xBbb1Cf8OxccllC5XVs\/g1vZJDv8xl26MNslZM="
       }
     }
   }
