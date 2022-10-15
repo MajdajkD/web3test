@@ -32,8 +32,6 @@ window.NethereumWeb3Interop =
       }
     },
 
-
-
     //fortmatic: {
     //  package: Fortmatic,
     //  options: {
@@ -45,7 +43,6 @@ window.NethereumWeb3Interop =
 
   SetupWeb3: async function () {
     /*    setTimeout(() => { //need to wait some time because of metamask warmup bug*/
-
     if (!window.ethereum) {
       this.providerOptions['custom-metamask'] = {
         display: {
@@ -60,7 +57,6 @@ window.NethereumWeb3Interop =
         }
       }
     };
-
 
     web3Modal = new Web3Modal({
       network: "mainnet",
